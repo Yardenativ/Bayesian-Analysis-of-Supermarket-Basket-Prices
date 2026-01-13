@@ -31,7 +31,7 @@ To compare average basket prices across cities, we assumed a Gaussian data-gener
 Posterior differences were evaluated using Highest Density Intervals (HDI), Region of Practical Equivalence (ROPE), and Probability of Direction (PD).
 
 ### Posterior Distributions by City
-![Posterior Means by City](../figures/Figure1_PosteriorMeansByCity.png)
+![Posterior Means by City](../figures/Figure1_PosteriorMeansByCity.jpeg)
 
 ### Results
 Posterior distributions for Yangon, Mandalay, and Naypyitaw show substantial overlap. No clear separation between cities is observed, indicating high uncertainty relative to any potential differences.
