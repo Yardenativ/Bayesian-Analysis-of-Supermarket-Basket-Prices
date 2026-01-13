@@ -60,7 +60,7 @@ Purchase amounts in the Food and Beverages product line exhibited right-skewness
 Weakly informative priors were assigned to all parameters.
 
 ### Posterior Estimates by Gender
-![HDI by Gender](../figures/Figure2_HDIByGender.png)
+![HDI by Gender](../figures/Figure2_HDIByGender.jpeg)
 
 Posterior summaries suggest slightly higher median predicted spending for women; however, the uncertainty intervals are wide and strongly overlapping.
 
@@ -71,10 +71,10 @@ Posterior summaries suggest slightly higher median predicted spending for women;
 To interpret results on the original monetary scale, posterior predictive distributions (PPD) were generated for new customers by gender.
 
 ### Posterior Predictive Distributions by Gender
-![Posterior Predictive by Gender](../figures/Figure3_PosteriorPredictiveByGender.png)
+![Posterior Predictive by Gender](../figures/Figure3_PosteriorPredictiveByGender.jpeg)
 
 ### PPD for New Customers
-![PPD Gender](../figures/Figure4_PPD_Gender.png)
+![PPD Gender](../figures/Figure4_PPD_Gender.jpeg)
 
 The predictive distributions show broad overlap, indicating that gender alone provides limited predictive power for basket price.
 
@@ -85,7 +85,7 @@ The predictive distributions show broad overlap, indicating that gender alone pr
 To directly assess potential gender effects, the posterior predictive distribution of the difference in basket prices (men minus women) was examined.
 
 ### Posterior Distribution of Gender Differences
-![PPD Difference Gender](../figures/Figure5_PPD_DifferenceGender.png)
+![PPD Difference Gender](../figures/Figure5_PPD_DifferenceGender.jpeg)
 
 The distribution is centered near zero and includes both positive and negative values. Approximately equal probability is assigned to either gender spending more, indicating no meaningful or consistent difference.
 
@@ -96,7 +96,7 @@ The distribution is centered near zero and includes both positive and negative v
 Posterior Predictive Checks (PPC) were conducted to evaluate model fit.
 
 ### PPC by Gender
-![PPC Gender](../figures/Figure6_PPC_Gender.png)
+![PPC Gender](../figures/Figure6_PPC_Gender.jpeg)
 
 The simulated data broadly reproduce the central tendencies and overall shape of the observed data, although extreme values are not perfectly captured.
 
